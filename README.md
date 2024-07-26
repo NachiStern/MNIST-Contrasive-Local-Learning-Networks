@@ -8,4 +8,5 @@
  4. mnist
  5. pypardiso
  6. networkx
- 7. sklearn
+ 7. scikit-learn (sklearn)
+ 8. scikit-image (skimage)
